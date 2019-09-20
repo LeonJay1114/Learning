@@ -1,1 +1,2 @@
 System.out.println("hello");
+Console.log("你好啊");
